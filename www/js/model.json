@@ -61,18 +61,18 @@
     },
     "libraries": {
       "Javascript": {
-        "jQuery"            : 9,
-        "jQuery-UI"         : 4,
-        "Bootstrap"         : 7,
-        "Foundation"        : 6,
-        "Semantic-UI"       : 3,
-        "DataTables"        : 5,
-        "Underscore/Lodash" : 6,
-        "Handlebars"        : 7,
-        "jQuery-tmpl"       : 3,
-        "Angular"           : 1,
-        "Rivets"            : 1,
-        "Ionic"             : 1
+        "jQuery"      : 9,
+        "jQuery-UI"   : 4,
+        "Bootstrap"   : 7,
+        "Foundation"  : 6,
+        "Semantic-UI" : 3,
+        "DataTables"  : 5,
+        "Lodash"      : 6,
+        "Handlebars"  : 7,
+        "jQuery-tmpl" : 3,
+        "Angular"     : 1,
+        "Rivets"      : 1,
+        "Ionic"       : 1
       },
       "Perl": {
         "Mojolicious": 2
