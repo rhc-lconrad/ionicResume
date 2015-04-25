@@ -1,0 +1,88 @@
+{
+  "name"         : "William (Liam) Conrad",
+  "contact_info" : {
+    "phone" : "6084660831",
+    "email" : [
+      "liam@storskegg.org",
+      "kf4tqs@me.com"
+    ],
+    "address" : "1924 DuPont Dr #3",
+    "city"    : "Janesville",
+    "state"   : "WI",
+    "zip"     : "53546"
+  },
+  "objective"  : "",
+  "experience" : [
+    {
+      "company" : "Restore Health Pharmacies",
+      "dates"   : {
+        "start" : "2013-10-01",
+        "end"   : "present"
+      },
+      "title"            : "Web Developer",
+      "description"      : "Improve and expand upon the existing feature set of the internal codebase, assist in the port from Plack/Mason to Mojolicious, and perform extensive cleanup of old codebase to effectively improve overall structure and reliability of the in-house product.",
+      "responsibilities" : [
+        "Development of in-house codebase using Javascript, CSS/LESS, HTML5, modern Perl, TwiML and MySQL.",
+        "VoiP management using Asterisk and Kazoo.",
+        "Management of Github repo using the Git Flow model.",
+        "General management of FreeBSD servers, including: ZFS replication, CUPS, jail deployment and more.",
+        "More..."
+      ]
+    },
+    {
+      "company" : "Freelance Web Developer",
+      "dates"   : {
+        "start" : "2012-09-01",
+        "end"   : "2013-10-01"
+      },
+      "title"            : "Freelance Web Developer",
+      "description"      : "Developed, repaired and migrated sites for a number of businesses on a contract and subcontract basis.",
+      "responsibilities" : [
+        "Server-to-Server Drupal Migration",
+        "Securing php backends and data storage",
+        "Development of HTML5 and WordPress Sites",
+        "Implementing jQuery and plugins",
+        "Development of Responsive sites",
+        "UX Design Consultation",
+        "More..."
+      ]
+    }
+  ],
+  "skills": {
+    "languages": {
+      "Javascript" : 8,
+      "HTML"       : 9,
+      "CSS"        : 9,
+      "Less"       : 3,
+      "Sass"       : 3,
+      "Perl"       : 3,
+      "MySQL"      : 3,
+      "TwiML"      : 2
+    },
+    "libraries": {
+      "Javascript": {
+        "jQuery"            : 9,
+        "jQuery-UI"         : 4,
+        "Bootstrap"         : 7,
+        "Foundation"        : 6,
+        "Semantic-UI"       : 3,
+        "DataTables"        : 5,
+        "Underscore/Lodash" : 6,
+        "Handlebars"        : 7,
+        "jQuery-tmpl"       : 3,
+        "Angular"           : 1,
+        "Rivets"            : 1,
+        "Ionic"             : 1
+      },
+      "Perl": {
+        "Mojolicious": 2
+      }
+    }
+  },
+  "profiles": [
+    "http://github.com/rhc-lconrad",
+    "http://github.com/storskegg",
+    "http://www.meetup.com/members/70370392/",
+    "http://codepen.io/lconrad/"
+  ]
+}
